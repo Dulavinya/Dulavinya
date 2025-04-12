@@ -5,7 +5,10 @@
       - Robotics
       - Embedded Systems
       - Computer Vision
-  - 
+  - 🌱 Currently, I'm exploring various areas including:
+      - PCB Design
+      - Machine Learning
+
   
 
 
@@ -14,7 +17,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dulavinya-manawadu-2ab7742b9/)
 
-### 🛠️ Languages & Tools
+
 
 ### 🛠️ Languages & Tools
 
@@ -34,8 +37,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/esp32/esp32-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tinkercad/tinkercad-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidworks/solidworks-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/altium/altium-original.svg" width="40" />
+
 </p>
 
