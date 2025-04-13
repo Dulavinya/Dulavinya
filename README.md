@@ -33,6 +33,5 @@
 </p>
 
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dulavinya&layout=compact&theme=radical)
 
 
