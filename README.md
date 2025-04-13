@@ -31,3 +31,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" />
 </p>
+
+---
+
+### 📊 GitHub Stats
+
+![Dulavinya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dulavinya&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dulavinya&layout=compact&theme=radical)
+
+---
+
+### 🔥 GitHub Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dulavinya&theme=radical)](https://git.io/streak-stats)
+
+---
+
+### 👁️ Visitor Counter
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=Dulavinya&style=flat&color=blue)
