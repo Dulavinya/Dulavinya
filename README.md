@@ -1,13 +1,13 @@
 - 👋 Hi, I’m Dulavinya Manawadu.
 - 🎓I'm an undergraduate student studying Electronics and Telecommunication Engineering at the University of Moratuwa, Sri Lanka.
 - 👀I'm passionate about:
-            - Analog Electronics
-            - Robotics
-            - Embedded Systems
-            - Computer Vision
+  - Analog Electronics  
+  - Robotics  
+  - Embedded Systems  
+  - Computer Vision  
 - 🌱Currently, I'm exploring various areas including:
-            - PCB Design
-            - Machine Learning
+  - PCB Design  
+  - Machine Learning  
 
 ### 🌐 Connect with Me
 
