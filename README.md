@@ -14,11 +14,12 @@
 
   
 
+### 🌐 Connect with Me
 
-## Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dulavinya-manawadu-2ab7742b9/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram)](https://www.instagram.com/dula_nm_/)
 
-[![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/dula_nm_/)
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png)](https://www.linkedin.com/in/dulavinya-manawadu-2ab7742b9/)
+---
 
 
 
