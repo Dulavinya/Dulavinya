@@ -15,11 +15,10 @@
   
 
 
-
 ## Connect with me
 
-- [Instagram](https://www.instagram.com/dula_nm_/)
-- [LinkedIn](https://www.linkedin.com/in/dulavinya-manawadu-2ab7742b9/)
+[![Instagram](https://img.shields.io/badge/Instagram-@dula_nm-E4405F?style=social&logo=instagram)](https://www.instagram.com/dula_nm_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dulavinya_Manawadu-0A66C2?style=social&logo=linkedin)](https://www.linkedin.com/in/dulavinya-manawadu-2ab7742b9/)
 
 
 
