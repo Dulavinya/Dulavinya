@@ -33,5 +33,9 @@
 </p>
 
 ---
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dulavinya&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dulavinya&show_icons=true)
 
 
