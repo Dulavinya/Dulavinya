@@ -12,7 +12,6 @@
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dulavinya-manawadu-2ab7742b9/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram)](https://www.instagram.com/dula_nm_/)
 
 ---
 
