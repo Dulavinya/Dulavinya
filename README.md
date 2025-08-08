@@ -5,9 +5,7 @@
   - Robotics  
   - Embedded Systems  
   - Computer Vision  
-- 🌱 Currently, I'm exploring various areas including:
-  - PCB Design  
-  - Machine Learning  
+- 🌱 Currently, I'm exploring various areas including Computer Vision and Machine Learning.
 
 ### 🌐 Connect with Me
 
