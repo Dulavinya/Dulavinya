@@ -38,7 +38,7 @@
 
 
 - **Computer Vision & Machine Learning** – Real-time image processing, object detection, gesture recognition  
-- **Deep Learning & PyTorch** – Neural networks, CNNs, transfer learning, and practical AI applications  
+- **Deep Learning** – Neural networks, CNNs, transfer learning, and practical AI applications  
 
 
 ---
