@@ -71,4 +71,7 @@
 [![Dulavinya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dulavinya&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Dulavinya&show_icons=true&theme=radical)
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dulavinya&theme=onedark&row=1&column=7&title=Stars,Followers,Commits,PullRequest,Issues,Repositories,Experience)](https://github.com/ryo-ma/github-profile-trophy)
 
