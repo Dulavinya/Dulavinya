@@ -14,34 +14,43 @@
 📧 Email: [dulavinyamanawadu@gmail.com](mailto:dulavinyamanawadu@gmail.com)
 
 ---
-
-### 🛠️ Languages & Tools
+### 🛠️ Programming Languages
 <p align="left">
-  <!-- Devicon icons -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40" height="40"/>
+</p>
 
-  <!-- Node-RED -->
-  <img src="https://nodered.org/about/resources/media/node-red-icon.svg" width="40" alt="Node-RED"/>
+### 🧰 Frameworks & Libraries
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Jupyter-333333?style=for-the-badge&logoColor=white" height="30"/>
+</p>
 
-  <!-- Text-style placeholders -->
+### 🖥️ Hardware & Embedded Systems
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/PlatformIO-1E90FF?style=for-the-badge&logo=platformio&logoColor=white" height="30"/>
+  <img src="https://nodered.org/about/resources/media/node-red-icon.svg" width="40" height="40" alt="Node-RED"/>
+</p>
+
+### 🛠️ Tools & Design Software
+<p align="left">
   <img src="https://img.shields.io/badge/MQTT-333333?style=for-the-badge&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/Quartus%20Prime-333333?style=for-the-badge&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/Verilog%20HDL-333333?style=for-the-badge&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/SolidWorks-333333?style=for-the-badge&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/Altium%20Designer-333333?style=for-the-badge&logoColor=white" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 </p>
-
 
 ### 🚀 Interests & Focus Areas
 
