@@ -56,14 +56,7 @@
 </p>
 
 ---
-### 🚀 Interests & Focus Areas
 
-
-- **Computer Vision & Machine Learning** – Real-time image processing, object detection, gesture recognition  
-- **Deep Learning** – Neural networks, CNNs, transfer learning, and practical AI applications  
-
-
----
 ### 🌟 Projects & Learning Highlights
 
 - Developed **hand gesture detection systems** using OpenCV and Raspberry Pi  
