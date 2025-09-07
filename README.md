@@ -1,8 +1,6 @@
 # Hi, I’m Dulavinya Manawadu 👋
 
-🎓 Undergraduate student in **Electronics and Telecommunication Engineering** at the **University of Moratuwa, Sri Lanka**.  
-
-💡 Passionate about **Analog Electronics, Embedded Systems, Computer Vision, Machine Learning, and Deep Learning**.  
+🎓 Undergraduate student in **Electronics and Telecommunication Engineering** at the **University of Moratuwa, Sri Lanka**.   
 
 🌱 Currently exploring advanced topics in **Computer Vision, Deep Learning, and AI-powered Embedded Systems**.
 
